@@ -1,4 +1,4 @@
-# Android Home-Assistant
+# Home-Assistant for Android <img src="https://raw.githubusercontent.com/stephenway/AndroidHomeAssistant/master/app/src/main/ic_launcher-web.png" width="64" style="float: right;" />
 
 Companion app for running your own instance of home-assistant.io
 
